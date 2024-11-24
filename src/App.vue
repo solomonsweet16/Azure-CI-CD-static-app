@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>GenAI App for All - Developed by John</h1>
+    <h1>GenAI App for All - Developed by Solomon</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
